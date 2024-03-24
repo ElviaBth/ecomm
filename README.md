@@ -1,24 +1,15 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+I'm following Conner Jensen Fullstack E-Commerce Course.
 
 Things you may want to cover:
 
-* Ruby version
+* Ruby on rails  6
 
-* System dependencies
+* Hotwire
 
-* Configuration
+* Tailwind
 
-* Database creation
+* Stripe
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* PostgreSQL
