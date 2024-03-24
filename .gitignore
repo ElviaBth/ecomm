@@ -29,6 +29,8 @@
 /public/assets
 .byebug_history
 
+/config/tailwind.config.js
+
 # Ignore master key for decrypting credentials and more.
 /config/master.key
 
